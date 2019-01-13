@@ -13,3 +13,6 @@ class Test {
 
 let t = new Test();
 t.timeout();
+
+let a = 'primero para rama test'
+let b = 'segunda prueba rama test'
